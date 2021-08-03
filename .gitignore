@@ -1,0 +1,5 @@
+# environment should be ignored
+venv/
+
+# so should this folder
+.ipynb_checkpoints
