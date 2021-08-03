@@ -67,7 +67,7 @@ def getTechnologiesWordCount():
         "airplay",
         "app-clips",
         "apple-pay",
-        "augmented-reality",
+        # "augmented-reality",
         "business-chat",
         "carekit",
         "carplay",
